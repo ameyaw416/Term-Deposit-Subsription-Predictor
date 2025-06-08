@@ -51,8 +51,8 @@ Target variable:
 
 | Model              | Train F1 (Yes) | Test F1 (Yes) | Overfitting |
 |-------------------|----------------|---------------|-------------|
-| Logistic Regression | 0.59           | 0.60          | ❌ No        |
-| Random Forest       | 1.00           | 0.53          | ✅ Yes       |
+| Logistic Regression | 0.59           | 0.60          |  No        |
+| Random Forest       | 1.00           | 0.53          |  Yes       |
 
 - Logistic Regression offered **balanced performance** and high recall on subscribers.
 - Random Forest **overfit** the training data despite strong accuracy.
