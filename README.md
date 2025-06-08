@@ -5,7 +5,7 @@ This project is part of a **technical assessment** for a Data Analytics role. Th
 
 ---
 
-## 🔍 Project Overview
+## Project Overview
 
 Using data from direct marketing campaigns by a Portuguese banking institution, we built a machine learning model to predict client subscription outcomes. The primary goal is to help the business optimize outreach strategies and improve campaign success rates.
 
