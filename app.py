@@ -37,6 +37,7 @@ pipeline = load_pipeline()
 st_lottie(home_animation, height=200, key="home")
 st.markdown("<h2 style='text-align: center;'>Term Deposit Subscription Predictor</h2>", unsafe_allow_html=True)
 st.markdown("<h5 style='text-align: center;'>Marketing to the right People</h5>", unsafe_allow_html=True)
+st.markdown("<h5 style='text-align: center;'>Enter 1234 as the password for this application</h5>", unsafe_allow_html=True)
 
 # --- Session state for authentication ---
 if "logged_in" not in st.session_state:
