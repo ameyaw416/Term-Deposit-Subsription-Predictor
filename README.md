@@ -97,3 +97,4 @@ Ensure your CSV file is located at the specified path in the notebook or adjust 
 ##Contact
 
 For questions, reach out via email or GitHub Issues.
+ameyawnanabadu@gmail.com
